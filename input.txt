@@ -1,0 +1,49 @@
+push 0
+push 1
+push -1
+pop
+pop
+dpop 1000
+push 5
+push -100
+push 1
+push -10
+push 100
+op ascending
+pop
+pop
+pop
+pop
+pop
+push 5
+push -100
+push 1
+push -10
+push 100
+op descending
+pop
+pop
+pop
+pop
+pop
+push 5
+push -100
+push 1
+push -10
+push 100
+op max
+pop
+push 5
+push -100
+push 1
+push -10
+push 100
+op min
+pop
+empty
+push 3
+empty
+dpop 2000
+empty
+hello
+hahaha
